@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheNucleya02
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on freelancing
-- 📫 How to reach me kr.amanjha02@gmail.com
+- 📫 Reach me at - kr.amanjha02@gmail.com
 
 <!---
 TheNucleya02/TheNucleya02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
