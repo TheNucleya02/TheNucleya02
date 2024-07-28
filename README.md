@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheNucleya02
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Data analytics
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on freelancing
 - 📫 Reach me at - kr.amanjha02@gmail.com
 
