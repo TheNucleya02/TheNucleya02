@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheNucleya02
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI/ML
+- 🌱 I’m am also doing python development
 - 💞️ I’m looking to collaborate on freelancing
 - 📫 Reach me at - kr.amanjha02@gmail.com
 
