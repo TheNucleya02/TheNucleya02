@@ -3,12 +3,12 @@
 🚀 CS Major | 💡 AI/ML Enthusiast | ⚡ Generative AI Explorer | 🛠️ Python Backend Developer  
 
 I’m a **3rd-year Computer Science student** passionate about building real-world applications that blend **AI, ML, and backend systems**.  
-My work spans from **Machine Learning projects** to **Generative AI apps with LangChain and LangGraph**, and I’m currently expanding into **backend development with Python, Flask, and FastAPI**.  
+My work spans from **Machine Learning projects** to **Generative AI apps with LangChain and LangGraph**, and I’m currently expanding into **backend development with Python, Django, and FastAPI**.  
 
 ---
 
 ## 🔥 What I'm Currently Up To
-- 📚 Exploring **Generative AI & LLMs** (LangChain, RAG, LangGraph, HuggingFace, MistralAI, OpenAI API).  
+- 📚 Exploring **Generative AI & LLMs** (LangChain, RAG, LangGraph, HuggingFace, CrewAI).  
 - 🏗️ Building projects in **AI, Data Science, and Python Backend**.  
 - 🌍 Interested in **real-world AI applications** in business, legal tech, and customer support.  
 - 🎯 Preparing impactful projects for **portfolio & hackathons**.  
@@ -28,21 +28,6 @@ My work spans from **Machine Learning projects** to **Generative AI apps with La
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
-
-## 📌 Featured Projects
-✨ Here are some of my favorite works so far:  
-
-- 🏠 **House Price Prediction** – ML regression model predicting housing prices.  
-- 🎬 **Movie Recommender System** – Personalized recommendations with ML.  
-- 🌸 **Iris Classification** – Classic ML classification project.  
-- 📰 **Text Summarizer (NLP)** – Summarizes long documents into concise notes.  
-- 🤖 **Customer Support Agent** – LLM-powered support chatbot.  
-- 📄 **PDF Query Chatbot (RAG)** – AI agent to query PDFs using LangChain + HuggingFace embeddings + Astra DB.  
-- 📊 **Crypto Analyst** – Price/news analysis & Telegram bot with inline keyboards.  
-- 🍴 **Online Restaurant App (Flask)** – Menu, orders, and delivery tracking system.  
-
 ---
 
 ## 🏆 Certifications & Learning  
