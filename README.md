@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman
 
-🚀 **Computer Science Undergraduate (3rd Year)**  
+🚀 **Computer Science Undergraduate (Final Year)**  
 💡 **AI/ML | Generative AI | Backend Development**
 
 I build **real-world applications** combining **Machine Learning, LLMs, and scalable backend systems**.  
